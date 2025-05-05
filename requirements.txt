@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+whisper
+speechrecognition
+deep_translator
+st_audiorec
+moviepy
+youtube-transcript-api
+pytube
